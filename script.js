@@ -1,5 +1,4 @@
-
-// Prompt user for age and determine whether they're legally suitable to drive.
+// Prompt user for age and determine whether their legally suitable to drive.
 var legalDriver;
 prompt("Please enter your age:");
   if (legalDriver === 18) {
